@@ -1,5 +1,5 @@
 # Data Science/Data Analytics/Web development Portfolio - Raniery Alves Vasconcelos
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated when I have new interesting things to show.
+This Portfolio is a compilation of all the Data Science, Data Analysis and Web development projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my achievements, skills, and certificates. It is updated when I have new interesting things to show.
 
 - **Email**: [ranieryvasconcelos@gmail.com](ranieryvasconcelos@gmail.com)
 - **LinkedIn**: [linkedin.com/ranieryav](https://www.linkedin.com/in/ranieryav/)
