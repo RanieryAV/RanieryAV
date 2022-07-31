@@ -9,6 +9,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RanieryAV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanieryAV&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+## Tools/Ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
