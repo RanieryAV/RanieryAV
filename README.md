@@ -3,6 +3,7 @@ This Portfolio is a compilation of all the Data Science, Data Analysis and Web d
 
 - **Email**: [ranieryvasconcelos@gmail.com](ranieryvasconcelos@gmail.com)
 - **LinkedIn**: [linkedin.com/ranieryav](https://www.linkedin.com/in/ranieryav/)
+- **Lattes**: [lattes.cnpq.br/5005710595696747](http://lattes.cnpq.br/5005710595696747)
 
 <div align="center">
   <a href="https://github.com/RanieryAV">
